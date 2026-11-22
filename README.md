@@ -319,20 +319,20 @@
 методах. Для имени нужно полное свойство, чтобы проверка выполнялась при каждом присваивании через `Name`.
 Свойство читается без круглых скобок (`alexander.Health`), у метода скобки нужны (`alexander.IsAlive()`).
 
-___
+
 
 ## Скриншоты 
 
 
-![1](img/lab3/2026-11-22_12-08.png)
-
-
-![2](img/lab3/2026-11-22_12-07.png)
 
 
 
-![3](img/lab3/2026-11-22_12-16.png)
+![1](GuildOfHeroes_ИзингерАлексей/img/lab3/2026-11-22_12-07.png)
 
 
 
-![4](img/lab3/schema-04-constructor-flow.png)
+![2](GuildOfHeroes_ИзингерАлексей/img/lab3/2026-11-22_12-16.png)
+
+
+
+![3](GuildOfHeroes_ИзингерАлексей/img/lab3/schema-04-constructor-flow.png)
